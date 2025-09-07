@@ -56,7 +56,7 @@ credit-scoring-app/
 
 Clone the repo:
 
-git clone https://github.com/your-username/credit-scoring-app.git
+git clone https://github.com/adirawat-cmd/credit-scoring
 cd credit-scoring-app
 
 Create and activate a virtual environment:
