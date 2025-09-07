@@ -63,7 +63,7 @@ st.write("Probability of Default:", round(pred_prob, 2))
 
 # st.subheader("Credit Score Distribution (from training data)")
 
-data = pd.read_csv("data/UCI_Credit_Card.csv")
+data = pd.read_csv("UCI_Credit_Card.csv")
 data["utilisation"] = data["BILL_AMT6"]/data["LIMIT_BAL"]
 data["avg_delay"] = data[['PAY_0','PAY_2','PAY_3','PAY_4','PAY_5','PAY_6']].mean(axis=1)
 
