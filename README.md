@@ -81,7 +81,7 @@ Logistic Regression AUC: ~0.65
 XGBoost AUC: ~0.833
 
 📖 Dataset
-The app is trained on the UCI Credit Card Dataset:
+The app is trained on the UCI Credit Card Dataset: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset?resource=download
 Default of Credit Card Clients Dataset (UCI Machine Learning Repository)
 
 🔮 Future Improvements
