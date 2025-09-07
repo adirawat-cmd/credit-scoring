@@ -1,4 +1,5 @@
 # credit-scoring
+Link: https://credit-scoring-6omlurkcyomuocduqey6tl.streamlit.app/
 💳 Credit Scoring Dashboard
 
 A machine learning–powered credit scoring system built with Python (Scikit-learn, XGBoost, SQL skills) and deployed using Streamlit.
