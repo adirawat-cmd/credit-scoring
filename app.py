@@ -13,10 +13,10 @@ st.title("💳 Credit Scoring Dashboard")
 # -----------------------------
 # Step 1: Load saved models and WOE mappings
 # -----------------------------
-lr_model = joblib.load("models/logistic_model.pkl")
-xgb_model = joblib.load("models/xgb_model.pkl")
-woe_util = joblib.load("models/woe_util.pkl")
-woe_delay = joblib.load("models/woe_delay.pkl")
+lr_model = joblib.load("logistic_model.pkl")
+xgb_model = joblib.load("xgb_model.pkl")
+woe_util = joblib.load("woe_util.pkl")
+woe_delay = joblib.load("woe_delay.pkl")
 
 # -----------------------------
 # Step 2: User input (only critical features)
